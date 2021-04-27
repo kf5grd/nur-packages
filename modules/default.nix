@@ -5,6 +5,7 @@
   pinephone = {
     sxmo = {
       xinit = ./pinephone/sxmo/xinit.nix;
+      scripts = ./pinephone/sxmo/scripts.nix;
     };
   };
 }
